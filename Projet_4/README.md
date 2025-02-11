@@ -1,12 +1,13 @@
 # Projet 4
 
-Contexte: Aider Dev’Immediat, une filiale de l'assurance automobile, à traiter les dossiers de demande d'assurance automobile reçus et réaliser une collecte de données en respectant le Règlement Général de Protection des Données.(RGPD)
+Contexte : BestMarket, une entreprise de la grande distribution, souhaite utiliser les données des retours et avis de ses clients pour améliorer la qualité de son réseau de magasins.
 
 Skills :
-- Agréger des extractions de données en définissant les règles de nettoyage
-- Collecter des données pertinentes en respect des normes et bonnes pratiques (anonymisation)
-- Pré-traiter des données pour explorer et comprendre leurs caractéristiques
+- Créer une base de données en respect des normes réglementaires et des besoins clients
+- Effectuer des requêtes SQL complexes pour répondre à une problématique métier en respect du RGPD
+- Gérer une base de données établissant des requêtes et en respect du RGPD
 
 Outils :
 - SQLite
-- Excel & Power Query
+- Powerpoint
+- Canva
