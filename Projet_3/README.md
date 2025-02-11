@@ -1,12 +1,12 @@
 # Projet 3
 
-Contexte : Aider une entreprise de l'assurance à mieux accompagner ses clients en analysant le marché des assurances habitation dans une base de données SQL.
+Contexte: Aider Dev’Immediat, une filiale de l'assurance automobile, à traiter les dossiers de demande d'assurance automobile reçus et réaliser une collecte de données en respectant le Règlement Général de Protection des Données.(RGPD)
 
 Skills :
-- Charger des données dans une base de données
-- Créer un schéma d'une base de données
-- Rédiger des scripts simples en SQL pour aider à la prise de décision business
+- Agréger des extractions de données en définissant les règles de nettoyage
+- Collecter des données pertinentes en respect des normes et bonnes pratiques (anonymisation)
+- Pré-traiter des données pour explorer et comprendre leurs caractéristiques
 
 Outils :
-- MySQL WorkBench
 - SQLite
+- Excel & Power Query
