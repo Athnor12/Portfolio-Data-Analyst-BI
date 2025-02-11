@@ -1,13 +1,13 @@
 # Projet 5
 
-Contexte : BestMarket, une entreprise de la grande distribution, souhaite utiliser les données des retours et avis de ses clients pour améliorer la qualité de son réseau de magasins.
+Contexte : Bottleneck, un marchand de vins, a besoin d'agréger les données provenant de ses différentes sources afin d'optimiser la gestion des stocks.
 
 Skills :
-- Créer une base de données en respect des normes réglementaires et des besoins clients
-- Effectuer des requêtes SQL complexes pour répondre à une problématique métier en respect du RGPD
-- Gérer une base de données établissant des requêtes et en respect du RGPD
+- Effectuer des analyses univariées et multivariées des données pré-traitées
+- Explorer et analyser des données en utilisant des langages et outils métiers
+- Traiter, nettoyer des données et définir la gestion des incohérences en conformité du RGPD
+- Vérifier la cohérence et la fiabilité des données préparées
 
 Outils :
-- SQLite
-- Powerpoint
-- Canva
+- Python (Numpy, Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
