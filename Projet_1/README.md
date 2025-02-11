@@ -1,15 +1,13 @@
 # Projet 1
 
-Contexte : Démarrer la formation de Business Intelligence Analyst
+Contexte : Consultant ESN pour Primero Bank, je dois m'appuyer sur les données pour comprendre la vague de départ qui vient d'avoir lieu et proposer des recommandations Business pour les aider à mettre en place un plan d'action afin que ça ne se reproduise plus
 
 Skills :
-- Identifier les soft skills propres au métier de Business Intelligence Analyst
-- Définir le cadre de la formation
-- Adopter la posture d'un Business Intelligence Analyst
-- Prise de décision
-- Adaptabilité
-- Communication orale et écrite
+- Concevoir des graphiques adaptés en prenant en compte les bonnes pratiques d'accessibilité
+- Créer des graphique sous Excel avec des tableaux croiser dynamiques
+- Présenter les analyses de façon pertinente et accessible avec PowerPoint
 
 Outils :
-- Xmind (carte mentale)
-- Canva
+
+- Excel (Tableaux et Graphiques croisées dynamiques)
+- PowerPoint
