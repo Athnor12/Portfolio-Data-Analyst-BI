@@ -9,4 +9,4 @@ Skills :
 
 Outils :
 - SQLite
-- Excel & Power Query
+- Excel et Power Query
